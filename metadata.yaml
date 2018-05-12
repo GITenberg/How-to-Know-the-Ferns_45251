@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43173'
     url: http://www.gutenberg.org/2009/agents/43173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45251#How-to-Know-the-Ferns
 gutenberg_issued: '2014-03-28'
 gutenberg_type: Text
 identifiers:
